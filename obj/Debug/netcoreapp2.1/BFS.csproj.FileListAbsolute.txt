@@ -1,0 +1,11 @@
+D:\nesa\master\Grafovi\Predavanja\BFS\BFS\obj\Debug\netcoreapp2.1\BFS.csprojAssemblyReference.cache
+D:\nesa\master\Grafovi\Predavanja\BFS\BFS\obj\Debug\netcoreapp2.1\BFS.csproj.CoreCompileInputs.cache
+D:\nesa\master\Grafovi\Predavanja\BFS\BFS\obj\Debug\netcoreapp2.1\BFS.AssemblyInfoInputs.cache
+D:\nesa\master\Grafovi\Predavanja\BFS\BFS\obj\Debug\netcoreapp2.1\BFS.AssemblyInfo.cs
+D:\nesa\master\Grafovi\Predavanja\BFS\BFS\bin\Debug\netcoreapp2.1\BFS.deps.json
+D:\nesa\master\Grafovi\Predavanja\BFS\BFS\bin\Debug\netcoreapp2.1\BFS.runtimeconfig.json
+D:\nesa\master\Grafovi\Predavanja\BFS\BFS\bin\Debug\netcoreapp2.1\BFS.runtimeconfig.dev.json
+D:\nesa\master\Grafovi\Predavanja\BFS\BFS\bin\Debug\netcoreapp2.1\BFS.dll
+D:\nesa\master\Grafovi\Predavanja\BFS\BFS\bin\Debug\netcoreapp2.1\BFS.pdb
+D:\nesa\master\Grafovi\Predavanja\BFS\BFS\obj\Debug\netcoreapp2.1\BFS.dll
+D:\nesa\master\Grafovi\Predavanja\BFS\BFS\obj\Debug\netcoreapp2.1\BFS.pdb
